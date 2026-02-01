@@ -1,4 +1,265 @@
 code,title,type,bondType,bondAmount,jailTime
+316.027,Crash Involving Death or Personal Injuries,Felony,Surety Bond,5000,5Y
+316.061,Crashes Involving Damage to Vehicle or Property,Misdemeanor,Cash Bail,750,30D
+316.062,Duty to Give Information and Render Aid,Misdemeanor,Cash Bail,500,30D
+316.063,Duty Upon Damaging Unattended Vehicle or Property,Misdemeanor,Cash Bail,500,30D
+316.065,Failure to Report Crash,Infraction,Citation Release,150,0
+316.066,Failure to Provide Written Crash Report,Infraction,Citation Release,150,0
+316.067,False Crash Report,Felony,Surety Bond,2500,1Y
+316.071,Disabled Vehicle Obstructing Traffic,Infraction,Citation Release,100,0
+316.072,Failure to Obey Lawful Order of Police or Fire Official,Misdemeanor,Cash Bail,500,30D
+316.074,Failure to Obey Traffic Control Device,Infraction,Citation Release,150,0
+316.075,Traffic Control Signal Violation,Infraction,Citation Release,150,0
+316.0755,Pedestrian Control Signal Violation,Infraction,Citation Release,100,0
+316.076,Flashing Signal Violation,Infraction,Citation Release,100,0
+316.0775,Interference with Traffic Control Device,Misdemeanor,Cash Bail,500,30D
+316.078,Failure to Obey Detour Sign,Infraction,Citation Release,100,0
+316.079,Failure to Yield to Highway Construction Worker,Infraction,Citation Release,200,0
+316.081,Driving on Wrong Side of Roadway,Infraction,Citation Release,100,0
+316.0815,Failure to Yield to Public Transit Vehicle,Infraction,Citation Release,100,0
+316.0817,Improper Loading/Unloading of Bus Passengers,Infraction,Citation Release,100,0
+316.082,Improper Passing of Oncoming Vehicle,Infraction,Citation Release,100,0
+316.0825,Failure to Use Caution Near Animal,Infraction,Citation Release,100,0
+316.083,Improper Passing of Vehicle/Bicycle,Infraction,Citation Release,100,0
+316.084,Improper Passing on Right,Infraction,Citation Release,100,0
+316.085,Improper Lane Change or Passing,Infraction,Citation Release,100,0
+316.087,Driving Left of Center,Infraction,Citation Release,100,0
+316.0875,No Passing Zone Violation,Infraction,Citation Release,100,0
+316.088,One‑Way Roadway Violation,Infraction,Citation Release,100,0
+316.089,Failure to Maintain Lane,Infraction,Citation Release,100,0
+316.0895,Following Too Closely,Infraction,Citation Release,100,0
+316.090,Driving on Divided Highway Violation,Infraction,Citation Release,100,0
+316.091,Improper Use of Limited Access Facility,Infraction,Citation Release,150,0
+316.1001,Failure to Pay Toll,Infraction,Citation Release,150,0
+316.121,Failure to Yield at Intersection,Infraction,Citation Release,100,0
+316.122,Vehicle Turning Left Must Yield,Infraction,Citation Release,100,0
+316.123,Stop or Yield Intersection Violation,Infraction,Citation Release,150,0
+316.1235,Failure to Treat Inoperative Signal as Four‑Way Stop,Infraction,Citation Release,150,0
+316.125,Failure to Yield from Private Drive/Alley,Infraction,Citation Release,100,0
+316.126,Move Over for Emergency/Sanitation/Utility Vehicle,Infraction,Citation Release,200,0
+316.130,Pedestrian Violation,Infraction,Citation Release,50,0
+316.1301,Failure to Assist Blind Person,Infraction,Citation Release,100,0
+316.1303,Failure to Assist Mobility‑Impaired Person,Infraction,Citation Release,100,0
+316.1355,Driving Through Safety Zone Prohibited,Infraction,Citation Release,150,0
+316.151,Improper Turn at Intersection,Infraction,Citation Release,100,0
+316.1515,Illegal U‑Turn,Infraction,Citation Release,100,0
+316.152,Turning on Curve or Crest of Grade Prohibited,Infraction,Citation Release,150,0
+316.154,Starting Parked Vehicle Unsafely,Infraction,Citation Release,100,0
+316.155,Failure to Signal Turn,Infraction,Citation Release,100,0
+316.156,Improper Hand/Arm Signal,Infraction,Citation Release,50,0
+316.157,Improper Method of Giving Signals,Infraction,Citation Release,50,0
+316.1575,Failure to Obey Railroad Crossing Device,Infraction,Citation Release,150,0
+316.1576,Insufficient Clearance at Railroad Crossing,Infraction,Citation Release,150,0
+316.1577,Employer Responsible for Railroad Crossing Violations,Misdemeanor,Cash Bail,500,30D
+316.159,Failure to Stop or Slow at Railroad Crossing,Infraction,Citation Release,150,0
+316.170,Moving Heavy Equipment at Railroad Crossing Without Notice,Misdemeanor,Cash Bail,500,30D
+316.171,Failure to Obey Railroad Crossing Signals,Infraction,Citation Release,150,0
+316.172,Failure to Stop for School Bus,Misdemeanor,Cash Bail,500,30D
+316.183,Unlawful Speed (General Speed Law),Infraction,Citation Release,150,0
+316.185,Special Hazard Speed Violation,Infraction,Citation Release,150,0
+316.187,State Speed Zone Violation,Infraction,Citation Release,150,0
+316.189,Municipal/County Speed Zone Violation,Infraction,Citation Release,150,0
+316.1891,Special Event Zone Violation,Misdemeanor,Cash Bail,500,30D
+316.1893,Enhanced Penalty Zone Violation,Infraction,Citation Release,200,0
+316.1895,School Speed Zone Violation,Infraction,Citation Release,200,0
+316.1896,School Zone Speed Detection Violation,Infraction,Citation Release,200,0
+316.1905,Unlawful Use of Speed Calculating Device,Misdemeanor,Cash Bail,500,30D
+316.1906,Unlawful Use of Radar Speed‑Measuring Device,Misdemeanor,Cash Bail,500,30D
+316.191,Racing on Highways / Street Takeover / Stunt Driving,Misdemeanor,Cash Bail,1000,60D
+316.192,Reckless Driving,Misdemeanor,Cash Bail,500,30D
+316.1922,Dangerous Excessive Speeding,Infraction,Citation Release,250,0
+316.1923,Aggressive Careless Driving,Infraction,Citation Release,200,0
+316.1925,Careless Driving,Infraction,Citation Release,150,0
+316.1926,Additional Reckless/Careless Offenses,Infraction,Citation Release,150,0
+316.193,Driving Under the Influence (DUI),Misdemeanor,Cash Bail,1000,60D
+316.1932,Refusal to Submit to Testing (Implied Consent),Misdemeanor,Cash Bail,500,30D
+316.1933,Blood Test for Impairment in Serious Injury/Death Cases,Felony,Surety Bond,2500,1Y
+316.1934,Presumption of Impairment (Testing Violations),Misdemeanor,Cash Bail,500,30D
+316.1935,Fleeing or Attempting to Elude Law Enforcement,Felony,Surety Bond,2500,1Y
+316.1936,Open Container in Vehicle,Infraction,Citation Release,100,0
+316.1937,Ignition Interlock Device Violations,Misdemeanor,Cash Bail,500,30D
+316.1938,Ignition Interlock Device Certification Violations,Infraction,Citation Release,100,0
+316.1939,Refusal to Submit to Testing (Second/Subsequent),Misdemeanor,Cash Bail,750,30D
+316.194,Stopping/Standing/Parking Outside Municipalities,Infraction,Citation Release,50,0
+316.1945,Stopping/Standing/Parking Prohibited in Certain Places,Infraction,Citation Release,50,0
+316.195,Additional Parking Regulations,Infraction,Citation Release,50,0
+316.1951,Parking for Certain Purposes Prohibited,Infraction,Citation Release,50,0
+316.1955,Parking Requirements for Persons with Disabilities,Infraction,Citation Release,100,0
+316.1957,Parking Violations in Disabled Spaces,Infraction,Citation Release,250,0
+316.1958,Out‑of‑State Disabled Parking Violation,Infraction,Citation Release,100,0
+316.1959,Handicapped Parking Enforcement Violation,Infraction,Citation Release,100,0
+316.1964,Parking Fee Exemption Violation,Infraction,Citation Release,50,0
+316.1965,Parking Near Rural Mailbox Violation,Infraction,Citation Release,50,0
+316.1967,Liability for Parking Ticket Violations,Infraction,Citation Release,50,0
+316.1974,Failure to Yield to Funeral Procession,Infraction,Citation Release,100,0
+316.1975,Unattended Motor Vehicle,Misdemeanor,Cash Bail,500,30D
+316.1985,Improper Backing,Infraction,Citation Release,100,0
+316.1995,Driving on Sidewalk or Bicycle Path,Misdemeanor,Cash Bail,500,30D
+316.2004,Obstruction to Driver’s View or Driving Mechanism,Infraction,Citation Release,100,0
+316.2005,Opening and Closing Vehicle Doors Unsafely,Infraction,Citation Release,100,0
+316.2014,Riding in House Trailer Prohibited,Infraction,Citation Release,100,0
+316.2015,Riding on Exterior of Vehicle Prohibited,Misdemeanor,Cash Bail,500,30D
+316.2021,Unlawful Impersonation of Transportation Network Driver,Misdemeanor,Cash Bail,500,30D
+316.2025,Following Fire Apparatus Too Closely,Infraction,Citation Release,100,0
+316.2034,Crossing Fire Hose Without Permission,Infraction,Citation Release,150,0
+316.2035,Dragging/Injurious Substances on Roadway,Misdemeanor,Cash Bail,500,30D
+316.2044,Failure to Remove Injurious Substances,Infraction,Citation Release,150,0
+316.2045,Obstruction of Public Streets/Highways,Infraction,Citation Release,150,0
+316.2051,Certain Vehicles Prohibited on Hard‑Surfaced Roads,Infraction,Citation Release,150,0
+316.2055,Throwing Advertising Materials from Vehicle,Infraction,Citation Release,100,0
+316.2061,Stop When Traffic Obstructed,Infraction,Citation Release,100,0
+316.2065,Bicycle Regulations Violation,Infraction,Citation Release,50,0
+316.20655,Electric Bicycle Regulations Violation,Infraction,Citation Release,50,0
+316.2068,Electric Personal Assistive Mobility Device Violation,Infraction,Citation Release,50,0
+316.2069,Commercial Megacycle Violations,Infraction,Citation Release,100,0
+316.2071,Personal Delivery Device/Mobile Carrier Violation,Infraction,Citation Release,100,0
+316.2074,All‑Terrain Vehicle (ATV) Violation,Infraction,Citation Release,150,0
+316.208,Motorcycle/Moped Equipment Violation,Infraction,Citation Release,100,0
+316.2085,Riding on Motorcycle/Moped Improperly,Infraction,Citation Release,100,0
+316.209,Operating Motorcycle on Laned Roadway Improperly,Infraction,Citation Release,100,0
+316.2095,Motorcycle Footrest/Handhold/Handlebar Violation,Infraction,Citation Release,100,0
+316.211,Motorcycle/Moped Rider Equipment Violation,Infraction,Citation Release,100,0
+316.212,Operation of Golf Carts on Certain Roadways,Infraction,Citation Release,100,0
+316.2122,Operation of Low‑Speed Vehicle/Mini‑Truck,Infraction,Citation Release,100,0
+316.2123,Operation of ATV on Certain Roadways,Infraction,Citation Release,150,0
+316.2124,Motorized Disability Access Vehicle Violation,Infraction,Citation Release,50,0
+316.2125,Golf Cart Operation in Retirement Community Violation,Infraction,Citation Release,100,0
+316.2126,Authorized Use of Golf Carts/LSVs/Utility Vehicles,Infraction,Citation Release,100,0
+316.21265,Use of ATVs/LSVs/Utility Vehicles by Law Enforcement,Infraction,Citation Release,0,0
+316.2127,Operation of Utility Vehicle by HOA on Roadway,Infraction,Citation Release,100,0
+316.2128,Micromobility Device/Motorized Scooter Violation,Infraction,Citation Release,100,0
+316.2129,Operation of Swamp Buggy on Public Roads,Infraction,Citation Release,150,0
+316.215,Improper Vehicle Equipment Standards,Infraction,Citation Release,100,0
+316.216,Improper Lighting Device Installation,Infraction,Citation Release,100,0
+316.217,Failure to Use Headlamps When Required,Infraction,Citation Release,100,0
+316.220,Headlamp Equipment Violation,Infraction,Citation Release,100,0
+316.221,Taillamp Equipment Violation,Infraction,Citation Release,100,0
+316.222,Stop Lamp/Turn Signal Violation,Infraction,Citation Release,100,0
+316.2225,Additional Equipment Required on Certain Vehicles,Infraction,Citation Release,100,0
+316.224,Improper Color of Lamps/Reflectors,Infraction,Citation Release,100,0
+316.225,Improper Mounting of Lamps/Reflectors,Infraction,Citation Release,100,0
+316.226,Improper Visibility of Lamps/Reflectors,Infraction,Citation Release,100,0
+316.227,Obstructed Lights Not Required,Infraction,Citation Release,50,0
+316.228,Failure to Display Flag/Lamp on Projecting Load,Infraction,Citation Release,100,0
+316.229,Improper Lamps on Parked Vehicle,Infraction,Citation Release,50,0
+316.2295,Improper Lamps/Reflectors on Farm Equipment,Infraction,Citation Release,50,0
+316.231,Improper Lamps on Other Vehicles/Equipment,Infraction,Citation Release,100,0
+316.233,Improper Use of Spot Lamps/Auxiliary Lamps,Infraction,Citation Release,100,0
+316.234,Improper Signal Lamps/Devices,Infraction,Citation Release,100,0
+316.235,Improper Additional Lighting Equipment,Infraction,Citation Release,100,0
+316.237,Improper Multiple‑Beam Lighting Equipment,Infraction,Citation Release,100,0
+316.238,Improper Use of Multiple‑Beam Headlights,Infraction,Citation Release,100,0
+316.2385,Failure to Use Low Beams When Required,Infraction,Citation Release,100,0
+316.239,Improper Single‑Beam Lighting Equipment,Infraction,Citation Release,100,0
+316.2395,Failure to Meet Minimum Headlamp Requirements,Infraction,Citation Release,100,0
+316.2396,Improper Number of Driving Lamps,Infraction,Citation Release,100,0
+316.2397,Prohibited Lights on Vehicles,Infraction,Citation Release,150,0
+316.2398,Unauthorized Use of Red/White Warning Signals,Misdemeanor,Cash Bail,500,30D
+316.2399,Improper Special Warning Lights for Buses/Taxicabs,Infraction,Citation Release,100,0
+316.240,Improper Lights on Highway Maintenance/Service Equipment,Infraction,Citation Release,100,0
+316.241,Illegal Sale/Use of Lamps or Equipment,Infraction,Citation Release,150,0
+316.242,Revocation of Lighting Device Approval,Misdemeanor,Cash Bail,500,30D
+316.251,Exceeding Maximum Bumper Height,Infraction,Citation Release,150,0
+316.252,Failure to Use Splash/Spray Suppressant Devices,Infraction,Citation Release,100,0
+316.253,Ice Cream Truck Warning Device Violation,Infraction,Citation Release,100,0
+316.261,Brake Equipment Required Violation,Infraction,Citation Release,150,0
+316.262,Improper Brake Performance,Infraction,Citation Release,150,0
+316.263,Failure to Maintain Brakes,Infraction,Citation Release,150,0
+316.267,Improper Brakes on Electric Vehicle,Infraction,Citation Release,150,0
+316.2675,Illegal Use of Vehicle Kill Switch,Misdemeanor,Cash Bail,500,30D
+316.271,Horn/Warning Device Violation,Infraction,Citation Release,50,0
+316.272,Exhaust System Noise Violation,Infraction,Citation Release,150,0
+316.293,Motor Vehicle Noise Violation,Infraction,Citation Release,150,0
+316.2935,Tampering with Emissions Equipment,Misdemeanor,Cash Bail,500,30D
+316.2937,Motor Vehicle Emissions Standards Violation,Infraction,Citation Release,150,0
+316.294,Mirror Equipment Violation,Infraction,Citation Release,100,0
+316.2951,Motor Vehicle Window Regulations Violation,Infraction,Citation Release,150,0
+316.2952,Windshield Requirements Violation,Infraction,Citation Release,150,0
+316.2953,Side Window Sunscreen Violation,Infraction,Citation Release,150,0
+316.2954,Rear Window Sunscreen Violation,Infraction,Citation Release,150,0
+316.29545,Window Tint Medical Exemption Violation,Infraction,Citation Release,150,0
+316.2955,Window Tint Compliance Label Violation,Infraction,Citation Release,150,0
+316.2956,Obstructed Driver View (Window Material),Infraction,Citation Release,150,0
+316.2957,Manufacturer Window Tint Exemption Violation,Infraction,Citation Release,150,0
+316.299,Rough Surfaced Wheels Prohibited,Infraction,Citation Release,150,0
+316.300,Failure to Carry Flares/Warning Devices,Infraction,Citation Release,100,0
+316.301,Failure to Display Warning Devices When Disabled,Infraction,Citation Release,100,0
+316.302,Commercial Motor Vehicle Safety Violation,Misdemeanor,Cash Bail,500,30D
+316.3025,Commercial Motor Vehicle Penalties,Misdemeanor,Cash Bail,500,30D
+316.3026,Unlawful Operation of Motor Carrier,Felony,Surety Bond,2500,1Y
+316.303,Television Receiver Visible to Driver,Infraction,Citation Release,150,0
+316.304,Wearing Headsets While Driving,Infraction,Citation Release,100,0
+316.3045,Improper Use of Soundmaking Device,Infraction,Citation Release,150,0
+316.305,Wireless Communications Device Prohibited,Infraction,Citation Release,150,0
+316.306,Handheld Wireless Device in School/Work Zone,Infraction,Citation Release,200,0
+316.400,Headlamp Equipment Violation (Motorcycles),Infraction,Citation Release,100,0
+316.405,Motorcycle Headlights Not Turned On,Infraction,Citation Release,100,0
+316.410,Taillamp Violation (Motorcycles),Infraction,Citation Release,100,0
+316.415,Reflector Violation (Motorcycles),Infraction,Citation Release,100,0
+316.420,Stop Lamp Violation (Motorcycles),Infraction,Citation Release,100,0
+316.425,Lamps on Parked Motorcycles Violation,Infraction,Citation Release,50,0
+316.430,Improper Multiple‑Beam Lighting (Motorcycles),Infraction,Citation Release,100,0
+316.435,Improper Lighting for Motor‑Driven Cycles,Infraction,Citation Release,100,0
+316.440,Brake Equipment Required (Motorcycles),Infraction,Citation Release,150,0
+316.445,Improper Motorcycle Brake Performance,Infraction,Citation Release,150,0
+316.450,Brakes on Motor‑Driven Cycles Violation,Infraction,Citation Release,150,0
+316.455,Other Motorcycle Equipment Violations,Infraction,Citation Release,100,0
+316.46,Moped Equipment Regulations Violation,Infraction,Citation Release,100,0
+316.500,Exceeding Weight/Length Limits,Infraction,Citation Release,250,0
+316.510,Improper Projecting Load on Passenger Vehicle,Infraction,Citation Release,150,0
+316.515,Exceeding Maximum Width/Height/Length,Infraction,Citation Release,250,0
+316.516,Failure to Submit to Vehicle Dimension Inspection,Infraction,Citation Release,250,0
+316.520,Load Not Secured,Infraction,Citation Release,150,0
+316.525,Improper Load Hauling Requirements,Infraction,Citation Release,150,0
+316.530,Improper Towing Requirements,Infraction,Citation Release,150,0
+316.535,Exceeding Maximum Weights,Infraction,Citation Release,250,0
+316.545,Unlawful Weight/Load; Fuel Tax Enforcement,Misdemeanor,Cash Bail,500,30D
+316.550,Operation Not in Conformity with Permit,Infraction,Citation Release,250,0
+316.5501,Improper Combination Vehicle Permit Use,Infraction,Citation Release,250,0
+316.555,Weight/Load/Speed Limits Lowered Violation,Infraction,Citation Release,150,0
+316.560,Damage to Highway; Liability of Driver/Owner,Misdemeanor,Cash Bail,500,30D
+316.565,Emergency Transport of Agricultural Products Violation,Infraction,Citation Release,150,0
+316.600,Health and Sanitation Hazard Violation,Infraction,Citation Release,150,0
+316.605,License Plate Not Properly Displayed,Infraction,Citation Release,150,0
+316.610,Unsafe Vehicle Condition,Misdemeanor,Cash Bail,500,30D
+316.6105,Operating Unsafe Vehicle Without Required Equipment,Infraction,Citation Release,150,0
+316.613,Child Restraint Violation,Infraction,Citation Release,150,0
+316.6135,Leaving Child Unattended in Vehicle,Misdemeanor,Cash Bail,500,30D
+316.614,Seat Belt Violation,Infraction,Citation Release,50,0
+316.6145,School Bus Restraint System Violation,Infraction,Citation Release,100,0
+316.615,School Bus Driver Physical Requirements Violation,Infraction,Citation Release,100,0
+316.622,Farm Labor Vehicle Violation,Infraction,Citation Release,150,0
+316.635,Traffic Court Custody/Detention of Minors Violation,Misdemeanor,Cash Bail,500,30D
+316.640,Traffic Enforcement Violation (Improper Authority),Misdemeanor,Cash Bail,500,30D
+316.645,Arrest Authority at Crash Scene Violation,Misdemeanor,Cash Bail,500,30D
+316.646,Failure to Maintain Insurance,Infraction,Citation Release,150,0
+316.650,Traffic Citation Violation,Infraction,Citation Release,100,0
+316.655,Traffic Penalties Violation,Infraction,Citation Release,100,0
+316.656,Mandatory Adjudication Violation,Infraction,Citation Release,100,0
+316.70,Nonpublic Sector Bus Safety Violation,Infraction,Citation Release,150,0
+316.72,Improper Use of School Bus Colors/Insignia,Infraction,Citation Release,150,0
+316.75,School Crossing Guard Violation,Infraction,Citation Release,100,0
+316.80,Unlawful Conveyance of Fuel / Fuel Fraud,Felony,Surety Bond,2500,1Y
+316.83,Autonomous Vehicle Road Grading Standard Violation,Infraction,Citation Release,150,0
+316.85,Autonomous Vehicle Operation Violation,Infraction,Citation Release,150,0
+316.86,Manufacturer Liability Exemption Violation,Infraction,Citation Release,150,0
+316.87,Nonemergency Medical Transport Violation,Infraction,Citation Release,150,0
+316.88,Sale of Appointments Prohibited,Misdemeanor,Cash Bail,500,30D
+316.89,Creating a Wake on Streets or Highways,Infraction,Citation Release,150,0
+317.0006,Failure to Obtain Required Certificate of Title,Misdemeanor,Cash Bail,500,30D
+317.0007,Improper Application for Certificate of Title,Misdemeanor,Cash Bail,500,30D
+317.0008,Improper Request for Duplicate Certificate of Title,Misdemeanor,Cash Bail,500,30D
+317.0009,Failure to Provide Manufacturer’s Statement of Origin,Infraction,Citation Release,150,0
+317.0011,Refusal or Cancellation of Certificate of Title Violation,Misdemeanor,Cash Bail,500,30D
+317.0012,Crimes Relating to Certificates of Title,Felony,Surety Bond,2500,1Y
+317.0013,Nonmoving Traffic Violation (Off‑Highway Vehicle),Infraction,Citation Release,100,0
+317.0014,Certificate of Title Delivery/Lien Violation,Misdemeanor,Cash Bail,500,30D
+317.0016,Improper Use of Expedited Title Service,Infraction,Citation Release,150,0
+317.0017,Offenses Involving VINs/Applications/Certificates,Felony,Surety Bond,2500,1Y
+317.0018,Transfer/Operation Without Certificate; Failure to Surrender,Misdemeanor,Cash Bail,500,30D
+318.15,Failure to Comply with Civil Penalty or to Appear,Misdemeanor,Cash Bail,500,30D
+321.03,Imitation of Highway Patrol Vehicle/Uniform/Insignia Prohibited,Misdemeanor,Cash Bail,500,30D
+321.051,Operating Outside FHP Wrecker Rotation System,Misdemeanor,Cash Bail,500,30D
 321.03,"Imitation of Highway Patrol Vehicle Uniform Insignia Prohibited",Misdemeanor,Cash Bail,500,30D
 321.051,"Operating Outside FHP Wrecker Rotation System",Misdemeanor,Cash Bail,500,30D
 322.03,"Driving Without a Valid License",Misdemeanor,Cash Bail,500,30D
