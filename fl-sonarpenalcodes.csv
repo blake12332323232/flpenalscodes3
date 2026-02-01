@@ -1,0 +1,36 @@
+code,title,type,bondType,bondAmount,jailTime
+321.03,"Imitation of Highway Patrol Vehicle Uniform Insignia Prohibited",Misdemeanor,Cash Bail,500,30D
+321.051,"Operating Outside FHP Wrecker Rotation System",Misdemeanor,Cash Bail,500,30D
+322.03,"Driving Without a Valid License",Misdemeanor,Cash Bail,500,30D
+322.031,"Nonresident Driving Without Required License",Infraction,Citation Release,100,0
+322.033,"Use of Invalid Out of State License by Unauthorized Alien",Misdemeanor,Cash Bail,500,30D
+322.051,"Identification Card Violations",Infraction,Citation Release,100,0
+322.055,"License Suspension for Drug Offenses Age 18 Plus",Misdemeanor,Cash Bail,500,30D
+322.056,"License Suspension for Drug Offenses Under 18",Misdemeanor,Cash Bail,500,30D
+322.059,"Failure to Surrender Suspended License",Misdemeanor,Cash Bail,500,30D
+322.065,"Driving with License Expired Six Months or Less",Infraction,Citation Release,100,0
+322.16,"Violation of License Restrictions",Misdemeanor,Cash Bail,500,30D
+322.212,"Unauthorized Possession or Use of Driver License or ID",Felony,Surety Bond,2500,1Y
+322.33,"Making False Affidavit or Perjury",Felony,Surety Bond,2500,1Y
+322.34,"Driving While License Suspended Revoked Canceled or Disqualified",Misdemeanor,Cash Bail,500,30D
+322.341,"Driving While License Permanently Revoked",Felony,Surety Bond,2500,1Y
+323.001,"Wrecker Operator Storage Facility or Vehicle Hold Violation",Misdemeanor,Cash Bail,500,30D
+323.002,"Operating Outside County or Municipal Wrecker System",Misdemeanor,Cash Bail,500,30D
+324.022,"Failure to Maintain Financial Responsibility Property Damage",Infraction,Citation Release,150,0
+324.0221,"Failure to Maintain Required Insurance License or Registration Suspension",Misdemeanor,Cash Bail,500,30D
+324.051,"Failure to Provide Crash Report or Financial Responsibility Suspension",Misdemeanor,Cash Bail,500,30D
+324.071,"Failure to Pay Reinstatement Fee or Reinstate License",Misdemeanor,Cash Bail,500,30D
+324.072,"Failure to Provide Proof of Financial Responsibility After Conviction",Misdemeanor,Cash Bail,500,30D
+324.101,"Operating Vehicle Without Compliance With Financial Responsibility",Misdemeanor,Cash Bail,500,30D
+324.121,"Operating Vehicle While License or Registration Suspended for Financial Responsibility",Misdemeanor,Cash Bail,500,30D
+324.221,"General Penalties for Violations of Chapter 324",Misdemeanor,Cash Bail,500,30D
+381.0012,"Violation of Public Health Enforcement Order",Misdemeanor,Cash Bail,500,30D
+381.003,"Communicable Disease Control Violation",Misdemeanor,Cash Bail,500,30D
+381.00315,"Violation of Public Health Emergency Isolation or Quarantine Order",Felony,Surety Bond,2500,1Y
+381.0072,"Food Service Protection Violation",Misdemeanor,Cash Bail,500,30D
+381.00787,"Unlawful Tattooing Prohibited",Felony,Surety Bond,2500,1Y
+381.0081,"Operating Migrant Labor Camp Without Permit",Felony,Surety Bond,2500,1Y
+381.0098,"Biomedical Waste Violation",Misdemeanor,Cash Bail,500,30D
+381.875,"Enhanced Potential Pandemic Pathogen Research Prohibited",Felony,Surety Bond,2500,1Y
+381.986,"Medical Marijuana Regulation Violation",Misdemeanor,Cash Bail,500,30D
+381.988,"Medical Marijuana Testing Laboratory Violation",Misdemeanor,Cash Bail,500,30D
