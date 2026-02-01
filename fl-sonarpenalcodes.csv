@@ -139,7 +139,8 @@ code,title,type,bondType,bondAmount,jailTime
 784.082,Assault or Battery by Inmate on Visitor or Detainee,Felony,Surety Bond,5000,5Y
 784.083,Assault or Battery on Code Inspector,Felony,Surety Bond,5000,5Y
 784.085,Battery of Child by Throwing or Expelling Fluids,Felony,Surety Bond,5000,5Y
-784.086,Reproductive Battery,Felony,Surety Bond,5000,5Y787.01,Kidnapping,Felony,Surety Bond,15000,15Y
+784.086,Reproductive Battery,Felony,Surety Bond,5000,5Y
+787.01,Kidnapping,Felony,Surety Bond,15000,15Y
 787.02,False Imprisonment,Felony,Surety Bond,10000,10Y
 787.025,Luring or Enticing a Child,Felony,Surety Bond,5000,5Y
 787.03,Interference with Custody,Felony,Surety Bond,5000,5Y
