@@ -34,3 +34,673 @@ code,title,type,bondType,bondAmount,jailTime
 381.875,"Enhanced Potential Pandemic Pathogen Research Prohibited",Felony,Surety Bond,2500,1Y
 381.986,"Medical Marijuana Regulation Violation",Misdemeanor,Cash Bail,500,30D
 381.988,"Medical Marijuana Testing Laboratory Violation",Misdemeanor,Cash Bail,500,30D
+382.026,False Statements / Forged Vital Records,Felony,Surety Bond,2500,1Y
+383.07,Violation of Infant Eye Treatment / Reporting Requirements,Misdemeanor,Surety Bond,500,60D
+383.332,Operating a Birth Center Without a License,Misdemeanor,Surety Bond,1000,90D
+384.24,Unlawful Acts Regarding Sexually Transmissible Diseases,Misdemeanor,Surety Bond,1000,1Y
+384.34,Penalties for Violations of Chapter 384,Misdemeanor or Felony,Surety Bond,2500,1Y
+385.204,Fraudulent Application for or Obtaining Insulin,Misdemeanor,Surety Bond,500,60D
+386.051,Maintaining a Sanitary Nuisance,Misdemeanor,Surety Bond,500,60D
+386.204,Smoking or Vaping in Prohibited Indoor Area,Civil Infraction,Surety Bond,50,0D
+386.212,Smoking or Vaping Near School Property,Misdemeanor,Surety Bond,250,10D
+388.401,Damage to Mosquito Control Property or Operations,Misdemeanor,Surety Bond,500,60D
+382.026,False Statements / Forged Vital Records,Felony,Surety Bond,2500,1Y
+383.07,Violation of Infant Eye Treatment / Reporting Requirements,Misdemeanor,Surety Bond,500,60D
+383.332,Operating a Birth Center Without a License,Misdemeanor,Surety Bond,1000,90D
+384.24,Unlawful Acts Regarding Sexually Transmissible Diseases,Misdemeanor,Surety Bond,1000,1Y
+384.34,Penalties for Violations of Chapter 384,Misdemeanor or Felony,Surety Bond,2500,1Y
+385.204,Fraudulent Application for or Obtaining Insulin,Misdemeanor,Surety Bond,500,60D
+386.051,Maintaining a Sanitary Nuisance,Misdemeanor,Surety Bond,500,60D
+386.204,Smoking or Vaping in Prohibited Indoor Area,Civil Infraction,Surety Bond,50,0D
+386.212,Smoking or Vaping Near School Property,Misdemeanor,Surety Bond,250,10D
+388.401,Damage to Mosquito Control Property or Operations,Misdemeanor,Surety Bond,500,60D
+397.401,Operating a Substance Abuse Service Without a License,Misdemeanor,Surety Bond,1000,1Y
+397.4075,Unlawful Activities by Substance Abuse Personnel,Misdemeanor,Surety Bond,1000,1Y
+397.427,Unlawful Operation of Medication-Assisted Treatment Program,Felony,Surety Bond,5000,5Y
+397.4873,Illegal Recovery Residence Referral or Kickback,Misdemeanor,Surety Bond,1000,1Y
+397.581,Unlawful Activities in Substance Abuse Assessment or Treatment,Felony,Surety Bond,5000,5Y
+399.11,Elevator Safety Violations; Criminal Penalties,Misdemeanor,Surety Bond,500,60D
+399.125,Failure to Report Elevator Accident,Misdemeanor,Surety Bond,500,60D
+399.16,Unlicensed Elevator Work or Activity,Misdemeanor,Surety Bond,1000,1Y
+741.05,Violation of Marriage License Requirements,Misdemeanor,Surety Bond,500,60D
+741.21,Incestuous Marriage,Felony,Surety Bond,5000,5Y
+741.31,Violation of Domestic Violence Injunction,Misdemeanor or Felony,Surety Bond,1000,1Y
+741.313,Unlawful Action Against Employee Seeking Protection,Misdemeanor,Surety Bond,500,60D
+742.09,Publishing Names in Paternity Proceedings,Misdemeanor,Surety Bond,250,30D
+742.108,False Statements of Paternity,Felony,Surety Bond,2500,1Y 
+766.111,Unnecessary Diagnostic Testing; Criminal Penalties,Misdemeanor,Surety Bond,1000,1Y
+766.204,Failure to Provide Medical Records for Presuit Investigation,Misdemeanor,Surety Bond,500,60D
+767.12,Failure to Comply with Dangerous Dog Requirements,Misdemeanor,Surety Bond,500,60D
+767.13,Attack or Bite by Dangerous Dog Resulting in Injury or Death,Felony,Surety Bond,5000,5Y
+767.135,Attack by Unclassified Dog Causing Death,Felony,Surety Bond,10000,15Y
+767.136,Attack by Unclassified Dog Causing Severe Injury,Felony,Surety Bond,5000,5Y
+771.05,Unlawful Filing of Abolished Tort Causes of Action,Misdemeanor,Surety Bond,500,60D
+773.06,Failure to Require Helmet in Equine Activity,Misdemeanor,Surety Bond,250,10D
+775.0845,Wearing a Mask While Committing an Offense; Reclassification,Felony,Surety Bond,5000,5Y
+775.0846,Possession of Bulletproof Vest During Certain Offenses,Felony,Surety Bond,5000,5Y
+775.0847,Possession or Promotion of Certain Child Pornography Images; Reclassification,Felony,Surety Bond,10000,10Y
+775.085,Evidencing Prejudice While Committing an Offense; Hate Crime Reclassification,Felony,Surety Bond,5000,5Y
+775.0861,Offenses on Grounds of Religious Institutions; Reclassification,Felony,Surety Bond,5000,5Y
+775.0862,Sexual Offenses Against Students by Authority Figures; Reclassification,Felony,Surety Bond,5000,5Y
+775.0863,Evidencing Prejudice Against Disabled Person; Reclassification,Felony,Surety Bond,5000,5Y
+775.087,Possession or Use of Weapon During Certain Offenses; Minimum Sentence,Felony,Surety Bond,15000,10Y
+775.0875,Unlawful Taking or Use of LEO Firearm,Felony,Surety Bond,10000,10Y
+775.0877,Criminal Transmission of HIV,Felony,Surety Bond,5000,5Y
+775.13,Failure to Register as a Convicted Felon,Misdemeanor,Surety Bond,1000,1Y
+775.21,Sexual Predator Registration Violations,Felony,Surety Bond,10000,10Y
+775.215,Sex Offender Residency Restriction Violation,Felony,Surety Bond,5000,5Y
+775.261,Career Offender Registration Violation,Felony,Surety Bond,5000,5Y
+775.30,Terrorism,Felony,Surety Bond,25000,30Y
+775.31,Facilitating or Furthering Terrorism,Felony,Surety Bond,15000,15Y
+775.32,Use of Military-Type Training from Terrorist Organization,Felony,Surety Bond,25000,30Y
+775.33,Providing Material Support for Terrorism,Felony,Surety Bond,25000,30Y
+775.34,Membership in Designated Foreign Terrorist Organization,Felony,Surety Bond,25000,30Y
+775.35,Agroterrorism,Felony,Surety Bond,25000,30Y
+777.011,Principal in the First Degree,Felony,Surety Bond,5000,5Y
+777.03,Accessory After the Fact,Felony,Surety Bond,5000,5Y
+777.04,Attempt/Solicitation/Conspiracy,Felony,Surety Bond,5000,5Y
+782.04,Murder,Felony,Surety Bond,0,LIFE
+782.051,Attempted Felony Murder,Felony,Surety Bond,15000,15Y
+782.065,Murder of LEO/CO/Probation Officer,Felony,Surety Bond,0,LIFE
+782.07,Manslaughter / Aggravated Manslaughter,Felony,Surety Bond,10000,15Y
+782.071,Vehicular Homicide,Felony,Surety Bond,10000,15Y
+782.072,Vessel Homicide,Felony,Surety Bond,10000,15Y
+782.08,Assisting Self-Murder,Felony,Surety Bond,5000,5Y
+782.081,Commercial Exploitation of Self-Murder,Felony,Surety Bond,5000,5Y
+782.09,Killing of Unborn Child by Injury to Mother,Felony,Surety Bond,15000,15Y
+782.11,Unnecessary Killing to Prevent Unlawful Act,Felony,Surety Bond,5000,5Y
+782.34,Partial-Birth Abortion,Felony,Surety Bond,5000,5Y
+784.011,Assault,Misdemeanor,Surety Bond,500,60D
+784.021,Aggravated Assault,Felony,Surety Bond,2500,1Y
+784.03,Battery / Felony Battery,Misdemeanor or Felony,Surety Bond,1000,1Y
+784.031,Battery by Strangulation,Felony,Surety Bond,5000,5Y
+784.041,Felony Battery / Domestic Battery by Strangulation,Felony,Surety Bond,5000,5Y
+784.045,Aggravated Battery,Felony,Surety Bond,10000,15Y
+784.047,Violation of Protective Injunction (Repeat/Sexual/Dating Violence),Misdemeanor,Surety Bond,1000,1Y
+784.048,Stalking / Aggravated Stalking,Felony,Surety Bond,5000,5Y
+784.0487,Violation of Stalking Injunction,Misdemeanor,Surety Bond,1000,1Y
+784.049,Sexual Cyberharassment,Felony,Surety Bond,5000,5Y
+784.0493,Harassment Based on Religious or Ethnic Heritage,Misdemeanor,Surety Bond,1000,1Y
+784.0495,Mob Intimidation,Felony,Surety Bond,5000,5Y
+784.05,Culpable Negligence,Misdemeanor or Felony,Surety Bond,2500,1Y
+784.062,Misuse of Laser Lighting Device,Misdemeanor,Surety Bond,500,60D
+784.07,Assault or Battery on LEO/Firefighter/EMT; Reclassification,Felony,Surety Bond,5000,5Y
+784.074,Assault or Battery on SVP Facility Staff,Felony,Surety Bond,5000,5Y
+784.075,Battery on Detention/Commitment Staff or JPO,Felony,Surety Bond,5000,5Y
+784.076,Battery on Health Services Personnel,Felony,Surety Bond,5000,5Y
+784.078,Battery by Expelling Bodily Fluids on Facility Employee,Felony,Surety Bond,5000,5Y
+784.08,Assault or Battery on Person 65 or Older,Felony,Surety Bond,5000,5Y
+784.081,Assault or Battery on Specified Officials,Felony,Surety Bond,5000,5Y
+784.082,Assault or Battery by Inmate on Visitor or Detainee,Felony,Surety Bond,5000,5Y
+784.083,Assault or Battery on Code Inspector,Felony,Surety Bond,5000,5Y
+784.085,Battery of Child by Throwing or Expelling Fluids,Felony,Surety Bond,5000,5Y
+784.086,Reproductive Battery,Felony,Surety Bond,5000,5Y787.01,Kidnapping,Felony,Surety Bond,15000,15Y
+787.02,False Imprisonment,Felony,Surety Bond,10000,10Y
+787.025,Luring or Enticing a Child,Felony,Surety Bond,5000,5Y
+787.03,Interference with Custody,Felony,Surety Bond,5000,5Y
+787.035,Sheltering or Aiding Unmarried Minor Runaway,Misdemeanor,Surety Bond,500,60D
+787.04,Removing or Concealing Minors Contrary to Court Order,Felony,Surety Bond,5000,5Y
+787.06,Human Trafficking,Felony,Surety Bond,25000,30Y
+787.07,Human Smuggling,Felony,Surety Bond,10000,10Y
+787.30,Employing Person Under 21 in Adult Entertainment,Felony,Surety Bond,5000,5Y
+790.01,Carrying Concealed Weapon or Firearm,Felony or Misdemeanor,Surety Bond,2500,1Y
+790.013,Carrying Concealed Weapon Without License,Misdemeanor,Surety Bond,1000,1Y
+790.053,Open Carrying of Weapons,Misdemeanor,Surety Bond,500,60D
+790.054,Prohibited Use of Self-Defense Device on LEO,Felony,Surety Bond,5000,5Y
+790.0655,Firearm Purchase Waiting Period Violation,Misdemeanor,Surety Bond,500,60D
+790.07,Possession of Weapon During Criminal Offense,Felony,Surety Bond,5000,5Y
+790.09,Manufacturing or Selling Metallic Knuckles,Felony,Surety Bond,2500,1Y
+790.10,Improper Exhibition of Dangerous Weapon,Misdemeanor,Surety Bond,500,60D
+790.115,Possessing or Discharging Firearm on School Property,Felony,Surety Bond,5000,5Y
+790.15,Discharging Firearm in Public,Felony or Misdemeanor,Surety Bond,2500,1Y
+790.151,Using Firearm While Under the Influence,Felony or Misdemeanor,Surety Bond,2500,1Y
+790.16,Discharging Machine Gun,Felony,Surety Bond,10000,10Y
+790.161,Destructive Device Offenses,Felony,Surety Bond,25000,30Y
+790.1615,Discharging Destructive Device Causing Injury,Felony,Surety Bond,25000,30Y
+790.162,Threat to Use Destructive Device,Felony,Surety Bond,15000,15Y
+790.163,False Bomb/Weapon of Mass Destruction Report,Felony,Surety Bond,5000,5Y
+790.164,False Bomb Report on State Property,Felony,Surety Bond,5000,5Y
+790.165,Planting a Hoax Bomb,Felony,Surety Bond,5000,5Y
+790.166,Weapons of Mass Destruction Offenses,Felony,Surety Bond,25000,30Y
+790.17,Furnishing Weapons to Minors,Felony,Surety Bond,5000,5Y
+790.174,Failure to Safely Store Firearm,Misdemeanor,Surety Bond,500,60D
+790.175,Failure to Provide Required Firearm Warning,Misdemeanor,Surety Bond,500,60D
+790.18,Sale or Transfer of Arms to Minors,Felony,Surety Bond,5000,5Y
+790.19,Shooting or Throwing Deadly Missiles,Felony,Surety Bond,10000,15Y
+790.22,Minor in Possession of Firearm / BB Gun Violations,Misdemeanor,Surety Bond,500,60D
+790.221,Possession of Short-Barreled Rifle/Shotgun or Machine Gun,Felony,Surety Bond,10000,10Y
+790.222,Bump Stock Possession,Felony,Surety Bond,5000,5Y
+790.225,Ballistic Self-Propelled Knife Offenses,Felony,Surety Bond,5000,5Y
+790.23,Felon in Possession of Firearm or Ammunition,Felony,Surety Bond,15000,15Y
+790.233,Possession of Firearm While Under Injunction,Felony,Surety Bond,5000,5Y
+790.235,Violent Career Criminal in Possession of Firearm,Felony,Surety Bond,25000,30Y
+790.24,Failure to Report Gunshot Wound,Misdemeanor,Surety Bond,500,60D
+790.27,Altering or Removing Firearm Serial Number,Felony,Surety Bond,5000,5Y
+790.29,Paramilitary Training Prohibited,Felony,Surety Bond,5000,5Y
+790.31,Armor-Piercing or Exploding Ammunition Offenses,Felony,Surety Bond,5000,5Y
+790.338,Medical Privacy Firearm Inquiry Violation,Misdemeanor,Surety Bond,500,60D
+791.013,Unapproved Sparklers; Violations,Misdemeanor,Surety Bond,500,60D
+791.06,Fireworks Violations,Misdemeanor,Surety Bond,500,60D
+794.011,Sexual Battery,Felony,Surety Bond,0,LIFE
+794.0116,Sexual Offenses by Prior Sex Offender,Felony,Surety Bond,0,LIFE
+794.023,Sexual Battery by Multiple Perpetrators; Reclassification,Felony,Surety Bond,0,LIFE
+794.024,Unlawful Disclosure of Victim Identity,Felony,Surety Bond,5000,5Y
+794.027,Failure to Report Sexual Battery,Misdemeanor,Surety Bond,500,60D
+794.03,Publishing Identity of Sexual Offense Victim,Felony,Surety Bond,5000,5Y
+794.05,Unlawful Sexual Activity with Certain Minors,Felony,Surety Bond,10000,15Y
+794.051,Indecent or Lewd Touching of Certain Minors,Felony,Surety Bond,10000,15Y
+794.053,Lewd or Lascivious Written Solicitation of Minor,Felony,Surety Bond,5000,5Y
+794.08,Female Genital Mutilation,Felony,Surety Bond,15000,15Y
+796.001,Prostitution Offenses Involving Minors,Felony,Surety Bond,10000,15Y
+796.04,Forcing or Coercing into Prostitution,Felony,Surety Bond,10000,15Y
+796.05,Deriving Support from Prostitution,Felony,Surety Bond,5000,5Y
+796.06,Renting Space for Prostitution,Misdemeanor,Surety Bond,500,60D
+796.07,Prostitution and Related Acts,Misdemeanor or Felony,Surety Bond,1000,1Y
+796.08,HIV/STD Screening Violations,Misdemeanor,Surety Bond,500,60D
+797.02,Advertising Abortion Drugs or Services,Misdemeanor,Surety Bond,500,60D
+797.03,Prohibited Abortion-Related Acts,Felony,Surety Bond,5000,5Y
+798.01,Living in Open Adultery,Misdemeanor,Surety Bond,500,60D
+798.02,Lewd and Lascivious Behavior,Misdemeanor,Surety Bond,500,60D
+800.02,Unnatural and Lascivious Act,Felony,Surety Bond,5000,5Y
+800.03,Exposure of Sexual Organs,Misdemeanor,Surety Bond,500,60D
+800.04,Lewd or Lascivious Acts on or in Presence of Minor,Felony,Surety Bond,10000,15Y
+800.045,Lewd or Lascivious Images of Minor,Felony,Surety Bond,5000,5Y
+800.09,Lewd or Lascivious Exhibition in Presence of Employee,Felony,Surety Bond,5000,5Y
+800.101,Sexual Offenses Against Students by Authority Figures,Felony,Surety Bond,10000,15Y
+806.01,Arson,Felony,Surety Bond,15000,15Y
+806.031,Arson Resulting in Injury,Felony,Surety Bond,25000,30Y
+806.10,Preventing or Obstructing Firefighting,Felony,Surety Bond,5000,5Y
+806.101,False Fire Alarm,Misdemeanor,Surety Bond,500,60D
+806.111,Possession or Use of Fire Bomb,Felony,Surety Bond,10000,10Y
+806.13,Criminal Mischief,Misdemeanor or Felony,Surety Bond,1000,1Y
+806.135,Destroying Memorial or Historic Property,Felony,Surety Bond,5000,5Y
+806.14,Damage or Removal of Public Art,Felony,Surety Bond,5000,5Y
+810.02,Burglary,Felony,Surety Bond,10000,15Y
+810.06,Possession of Burglary Tools,Felony,Surety Bond,5000,5Y
+810.061,Impairing Power/Phone to Facilitate Burglary,Felony,Surety Bond,5000,5Y
+810.08,Trespass in Structure or Conveyance,Misdemeanor,Surety Bond,500,60D
+810.09,Trespass on Property Other Than Structure,Misdemeanor,Surety Bond,500,60D
+810.095,Trespass on School Property with Weapon,Felony,Surety Bond,5000,5Y
+810.097,Trespass on School Grounds,Misdemeanor,Surety Bond,500,60D
+810.0975,Trespass in School Safety Zone,Misdemeanor,Surety Bond,500,60D
+810.098,Trespass to Threaten or Intimidate,Felony,Surety Bond,5000,5Y
+810.10,Removing Posted Land Notices,Misdemeanor,Surety Bond,500,60D
+810.11,Placing Unauthorized Signs by Highway,Misdemeanor,Surety Bond,500,60D
+810.115,Breaking or Injuring Fences,Misdemeanor,Surety Bond,500,60D
+810.12,Unauthorized Entry on Land,Misdemeanor,Surety Bond,500,60D
+810.13,Cave Vandalism,Felony,Surety Bond,5000,5Y
+810.14,Voyeurism,Misdemeanor or Felony,Surety Bond,2500,1Y
+810.145,Digital Voyeurism,Felony,Surety Bond,5000,5Y
+810.15,Residential Picketing,Misdemeanor,Surety Bond,500,60D
+811.102,Illegal Entry by Adult Unauthorized Alien,Felony,Surety Bond,5000,5Y
+811.103,Illegal Reentry by Adult Unauthorized Alien,Felony,Surety Bond,5000,5Y
+812.014,Theft,Misdemeanor or Felony,Surety Bond,1000,1Y
+812.0145,Theft from Person 65 or Older; Reclassification,Felony,Surety Bond,5000,5Y
+812.0147,Unlawful Possession or Use of Fifth Wheel,Felony,Surety Bond,5000,5Y
+812.015,Retail or Farm Theft; Transit Fare Evasion,Misdemeanor or Felony,Surety Bond,1000,1Y
+812.0151,Retail Fuel Theft,Misdemeanor,Surety Bond,500,60D
+812.016,Possession of Altered Property,Felony,Surety Bond,5000,5Y
+812.017,Use of Fraudulent or False Receipt,Felony,Surety Bond,5000,5Y
+812.019,Dealing in Stolen Property,Felony,Surety Bond,10000,15Y
+812.0191,Dealing in Medicaid-Funded Property,Felony,Surety Bond,5000,5Y
+812.0195,Dealing in Stolen Property via Internet,Felony,Surety Bond,10000,15Y
+812.052,Certain Purchases Prohibited,Misdemeanor,Surety Bond,500,60D
+812.081,Theft or Trafficking in Trade Secrets,Felony,Surety Bond,10000,15Y
+812.13,Robbery,Felony,Surety Bond,15000,15Y
+812.131,Robbery by Sudden Snatching,Felony,Surety Bond,5000,5Y
+812.133,Carjacking,Felony,Surety Bond,15000,15Y
+812.135,Home-Invasion Robbery,Felony,Surety Bond,15000,15Y
+812.136,Mail Theft,Felony,Surety Bond,5000,5Y
+812.14,Trespass and Larceny with Utility Fixtures,Felony,Surety Bond,5000,5Y
+812.141,Offenses Involving Critical Infrastructure,Felony,Surety Bond,10000,15Y
+812.145,Theft of Copper or Nonferrous Metals,Felony,Surety Bond,5000,5Y
+812.15,Unauthorized Reception of Communications Services,Misdemeanor or Felony,Surety Bond,1000,1Y
+812.155,Failing to Return Leased Property / Intent to Defraud,Felony,Surety Bond,5000,5Y
+812.16,Operating a Chop Shop,Felony,Surety Bond,10000,15Y
+815.04,Offenses Against Intellectual Property,Felony,Surety Bond,5000,5Y
+815.06,Offenses Against Users of Computers or Networks,Felony,Surety Bond,10000,10Y
+815.061,Offenses Against Public Utilities via Computer Systems,Felony,Surety Bond,10000,10Y
+815.062,Offenses Against Governmental Entities via Computer Systems,Felony,Surety Bond,15000,15Y
+817.02,Obtaining Property by False Personation,Felony,Surety Bond,5000,5Y
+817.021,False Information to Obtain Seaport ID,Felony,Surety Bond,5000,5Y
+817.025,Home or Business Invasion by False Personation,Felony,Surety Bond,5000,5Y
+817.03,False Statement to Obtain Property or Credit,Felony,Surety Bond,5000,5Y
+817.0311,Fraudulent Sale or Lease of Real Property,Felony,Surety Bond,5000,5Y
+817.034,Communications Fraud Act,Felony,Surety Bond,10000,10Y
+817.0345,Fraudulent Marketing Practices,Felony,Surety Bond,5000,5Y
+817.037,Fraudulent Refunds,Misdemeanor or Felony,Surety Bond,1000,1Y
+817.05,False Statements to Merchants,Misdemeanor,Surety Bond,500,60D
+817.06,Misleading Advertisements,Misdemeanor,Surety Bond,500,60D
+817.061,Misleading Solicitation of Payments,Misdemeanor,Surety Bond,500,60D
+817.08,False Promises of Seaman/Sponge Fisher Services,Misdemeanor,Surety Bond,500,60D
+817.091,Fraudulent Use of Gift Cards,Felony,Surety Bond,5000,5Y
+817.11,Fraudulent Promise to Furnish Inside Information,Felony,Surety Bond,5000,5Y
+817.14,False Produce Assignment Representations,Misdemeanor,Surety Bond,500,60D
+817.15,False Entries in Business Books,Felony,Surety Bond,5000,5Y
+817.155,False Acts or Statements to Department of State,Felony,Surety Bond,5000,5Y
+817.16,False Reports by Bank or Trust Officers,Felony,Surety Bond,5000,5Y
+817.17,Wrongful Use of City/County Name,Misdemeanor,Surety Bond,500,60D
+817.18,Wrongful Marking with City/County Name,Misdemeanor,Surety Bond,500,60D
+817.19,Fraudulent Issue of Stock Certificate,Felony,Surety Bond,5000,5Y
+817.20,Issuing Unauthorized Corporate Stock,Felony,Surety Bond,5000,5Y
+817.22,False Invoice to Defraud Insurer,Felony,Surety Bond,5000,5Y
+817.23,False Affidavit to Defraud Insurer,Felony,Surety Bond,5000,5Y
+817.233,Burning to Defraud Insurer,Felony,Surety Bond,10000,10Y
+817.234,False or Fraudulent Insurance Claims,Felony,Surety Bond,10000,10Y
+817.2341,False or Misleading Insurance Statements,Felony,Surety Bond,5000,5Y
+817.235,Removing or Altering ID Marks on Property,Felony,Surety Bond,5000,5Y
+817.236,False Motor Vehicle Insurance Application,Felony,Surety Bond,5000,5Y
+817.2361,False Proof of Motor Vehicle Insurance,Felony,Surety Bond,5000,5Y
+817.24,Altering or Defacing Existing Brand,Felony,Surety Bond,5000,5Y
+817.25,Fraudulently Marking or Branding,Felony,Surety Bond,5000,5Y
+817.26,Fraudulently Changing Marks on Animal,Felony,Surety Bond,5000,5Y
+817.265,False Proof of Need for Emotional Support Animal,Misdemeanor,Surety Bond,500,60D
+817.28,Fraudulent Obtaining of Property by Gaming,Felony,Surety Bond,5000,5Y
+817.29,Cheating,Felony,Surety Bond,5000,5Y
+817.30,Unlawful Use of Badge of Certain Orders,Misdemeanor,Surety Bond,500,60D
+817.31,Unlawful Use of American Legion Insignia,Misdemeanor,Surety Bond,500,60D
+817.311,Unlawful Use of Badges,Misdemeanor,Surety Bond,500,60D
+817.312,Unlawful Use of Uniforms or Medals,Misdemeanor,Surety Bond,500,60D
+817.32,Fraudulent Operation of Coin-Operated Devices,Felony,Surety Bond,5000,5Y
+817.33,Manufacture of Slugs for Coin Devices,Felony,Surety Bond,5000,5Y
+817.34,False Entries by Investment Companies,Felony,Surety Bond,5000,5Y
+817.35,Sale of Cemetery Lots with False Promises,Felony,Surety Bond,5000,5Y
+817.355,Fraudulent Creation or Possession of Admission Ticket,Felony,Surety Bond,5000,5Y
+817.357,Unlawful Ticket Purchase (Fraud),Misdemeanor,Surety Bond,500,60D
+817.36,Resale of Tickets in Violation of Law,Misdemeanor,Surety Bond,500,60D
+817.361,Sale or Transfer of Multiuse Tickets,Misdemeanor,Surety Bond,500,60D
+817.37,Touting at Racetracks,Misdemeanor,Surety Bond,500,60D
+817.38,Simulated Process,Felony,Surety Bond,5000,5Y
+817.39,Simulated Legal Documents or Seals,Felony,Surety Bond,5000,5Y
+817.41,Misleading Advertising,Felony,Surety Bond,5000,5Y
+817.411,False Information in Advertising,Misdemeanor,Surety Bond,500,60D
+817.4115,False Advertisement of Live Musical Performance,Felony,Surety Bond,5000,5Y
+817.412,Selling Used Goods as New,Misdemeanor,Surety Bond,500,60D
+817.413,Selling Used Motor Vehicle Goods as New,Felony,Surety Bond,5000,5Y
+817.414,Selling Counterfeit Security Signs or Decals,Misdemeanor,Surety Bond,500,60D
+817.416,Franchise/Distributorship Misrepresentation,Felony,Surety Bond,5000,5Y
+817.417,Government Impostor and Deceptive Ads Act,Felony,Surety Bond,5000,5Y
+817.418,Sale of PPE with Intent to Defraud,Felony,Surety Bond,5000,5Y
+817.481,Illicitly Obtaining Credit or Purchases,Felony,Surety Bond,5000,5Y
+817.482,Telecom Theft Devices,Felony,Surety Bond,5000,5Y
+817.4821,Cellular Telephone Counterfeiting,Felony,Surety Bond,5000,5Y
+817.483,Publishing Info on Telecom Theft Methods,Felony,Surety Bond,5000,5Y
+817.484,Obtaining Phone Records by Fraud,Felony,Surety Bond,5000,5Y
+817.49,False Report of Crime,Felony,Surety Bond,5000,5Y
+817.50,Defrauding Health Care Provider / False Disease Report,Felony,Surety Bond,5000,5Y
+817.504,Offering Vaccine with Intent to Defraud,Felony,Surety Bond,5000,5Y
+817.505,Patient Brokering,Felony,Surety Bond,5000,5Y
+817.51,Obtaining Retail Products with Intent to Defraud,Misdemeanor,Surety Bond,500,60D
+817.52,Obtaining Vehicle with Intent to Defraud,Felony,Surety Bond,5000,5Y
+817.53,False Charges for Radio/TV Repairs,Misdemeanor,Surety Bond,500,60D
+817.535,Unlawful Filing of False Documents,Felony,Surety Bond,10000,15Y
+817.54,Obtaining Mortgage or Note by Fraud,Felony,Surety Bond,5000,5Y
+817.545,Mortgage Fraud,Felony,Surety Bond,10000,15Y
+817.55,False “Free” Tourist Attraction Advertising,Misdemeanor,Surety Bond,500,60D
+817.554,Fraudulent Sale of Travel Services,Felony,Surety Bond,5000,5Y
+817.5615,Optical Disc Marking Violations,Felony,Surety Bond,5000,5Y
+817.562,Fraud Involving Security Interest,Felony,Surety Bond,5000,5Y
+817.5621,Unlawful Subleasing of Motor Vehicle,Felony,Surety Bond,5000,5Y
+817.563,Selling Substance in Lieu of Controlled Substance,Felony,Surety Bond,5000,5Y
+817.564,Imitation Controlled Substances,Felony,Surety Bond,5000,5Y
+817.565,Fraudulent Urine Testing Practices,Felony,Surety Bond,5000,5Y
+817.5655,Unlawful Use of DNA,Felony,Surety Bond,5000,5Y
+817.566,Academic Misrepresentation,Felony,Surety Bond,5000,5Y
+817.568,Criminal Use of Personal Identification Information,Felony,Surety Bond,10000,15Y
+817.5685,Unlawful Possession of Personal ID Info,Felony,Surety Bond,5000,5Y
+817.569,Criminal Use of Public Records Information,Felony,Surety Bond,5000,5Y
+817.5695,Exploitation of Person 65 or Older,Felony,Surety Bond,5000,5Y
+817.59,False Statement as to Financial Condition,Felony,Surety Bond,5000,5Y
+817.60,Theft or Fraudulent Obtaining of Credit Card,Felony,Surety Bond,5000,5Y
+817.61,Fraudulent Use of Credit Cards,Felony,Surety Bond,5000,5Y
+817.611,Trafficking in Counterfeit Credit Cards,Felony,Surety Bond,10000,15Y
+817.612,Use of Expired or Revoked Credit Card,Felony,Surety Bond,5000,5Y
+817.62,Fraud by Authorized Provider,Felony,Surety Bond,5000,5Y
+817.625,Use of Skimming Device,Felony,Surety Bond,5000,5Y
+817.631,Possession of Credit-Card-Making Equipment,Felony,Surety Bond,10000,15Y
+817.64,Receipt of Money from Fraudulent Credit Card Use,Felony,Surety Bond,5000,5Y
+817.645,Altering Credit Card Invoice,Felony,Surety Bond,5000,5Y
+817.646,Possession of Credit Card Lists,Felony,Surety Bond,5000,5Y
+817.7005,Credit Service Organization Prohibited Acts,Felony,Surety Bond,5000,5Y
+817.705,Credit Service Organization Penalties,Felony,Surety Bond,5000,5Y
+817.802,Unlawful Fees by Credit Counseling Service,Felony,Surety Bond,5000,5Y
+817.806,Credit Counseling Service Violations,Felony,Surety Bond,5000,5Y
+818.01,Disposing of Property Under Lien,Felony,Surety Bond,5000,5Y
+818.02,Executing Mortgage Without Disclosing Prior Liens,Felony,Surety Bond,5000,5Y
+818.03,Removing Encumbered Property From County,Felony,Surety Bond,5000,5Y
+818.04,Selling Collateral Before Debt is Due,Felony,Surety Bond,5000,5Y
+818.05,Selling or Concealing Property Under Conditional Sale,Felony,Surety Bond,5000,5Y
+823.01,Maintaining a Public Nuisance,Misdemeanor,Surety Bond,500,60D
+823.02,Building Bonfires Unlawfully,Misdemeanor,Surety Bond,500,60D
+823.04,Keeping Diseased Animals,Misdemeanor,Surety Bond,500,60D
+823.041,Improper Disposal of Dead Animals,Misdemeanor,Surety Bond,500,60D
+823.05,Keeping Place of Illegal or Immoral Activity,Felony,Surety Bond,5000,5Y
+823.06,Public Building Doors Opening Inward,Misdemeanor,Surety Bond,500,60D
+823.07,Abandoning Airtight Units,Misdemeanor,Surety Bond,500,60D
+823.09,Violation of Airtight Unit Abandonment Law,Misdemeanor,Surety Bond,500,60D
+823.10,Place Used for Illegal Controlled Substances,Felony,Surety Bond,5000,5Y
+823.11,Derelict or Migrant Vessel Violations,Misdemeanor,Surety Bond,500,60D
+823.12,Smoking in Elevators,Misdemeanor,Surety Bond,250,30D
+823.13,Obscene Materials Visible From Public Places,Misdemeanor,Surety Bond,500,60D
+825.102,Abuse or Neglect of Elderly or Disabled Adult,Felony,Surety Bond,10000,15Y
+825.1025,Lewd or Lascivious Acts on Elderly or Disabled Adult,Felony,Surety Bond,15000,15Y
+825.103,Exploitation of Elderly or Disabled Adult,Felony,Surety Bond,10000,15Y
+825.1036,Violation of Vulnerable Adult Protection Injunction,Felony,Surety Bond,5000,5Y
+826.01,Bigamy,Felony,Surety Bond,5000,5Y
+826.03,Knowingly Marrying Another’s Spouse,Felony,Surety Bond,5000,5Y
+826.04,Incest,Felony,Surety Bond,5000,5Y
+827.03,Child Abuse or Neglect,Felony,Surety Bond,10000,15Y
+827.04,Contributing to Delinquency or Dependency of a Child,Misdemeanor,Surety Bond,500,60D
+827.06,Nonsupport of Dependents,Felony or Misdemeanor,Surety Bond,1000,1Y
+827.071,Sexual Performance by a Child,Felony,Surety Bond,15000,15Y
+827.072,Generated Child Pornography,Felony,Surety Bond,15000,15Y
+827.08,Misuse of Child Support Money,Misdemeanor,Surety Bond,500,60D
+827.10,Unlawful Desertion of a Child,Felony,Surety Bond,5000,5Y
+827.11,Exposing Children to Adult Live Performance,Felony,Surety Bond,5000,5Y
+828.05,Killing Injured or Diseased Domestic Animal Unlawfully,Misdemeanor,Surety Bond,500,60D
+828.055,Controlled Substances for Animals Without Permit,Felony,Surety Bond,5000,5Y
+828.058,Improper Euthanasia of Dogs or Cats,Felony,Surety Bond,5000,5Y
+828.065,Improper Euthanasia of Pet Shop Animals,Felony,Surety Bond,5000,5Y
+828.073,Animals Found in Distress; Failure to Act,Misdemeanor,Surety Bond,500,60D
+828.08,Exposing Poison,Misdemeanor,Surety Bond,500,60D
+828.12,Animal Cruelty,Felony or Misdemeanor,Surety Bond,5000,5Y
+828.121,Simulated Bullfighting,Felony,Surety Bond,5000,5Y
+828.122,Animal Fighting or Baiting,Felony,Surety Bond,10000,15Y
+828.123,Killing Dog or Cat for Pelt,Felony,Surety Bond,5000,5Y
+828.1231,Selling Clothing Containing Dog or Cat Fur,Felony,Surety Bond,5000,5Y
+828.125,Killing or Aggravated Abuse of Horses or Cattle,Felony,Surety Bond,15000,15Y
+828.126,Sexual Activities Involving Animals,Felony,Surety Bond,5000,5Y
+828.13,Animal Abandonment or Improper Confinement,Misdemeanor,Surety Bond,500,60D
+828.14,Failure to Provide Water or Food for Stock,Misdemeanor,Surety Bond,500,60D
+828.16,Failure to Report Contagious Animal Disease,Misdemeanor,Surety Bond,500,60D
+828.1615,Artificial Coloring of Animals for Sale,Misdemeanor,Surety Bond,500,60D
+828.22,Humane Slaughter Violations,Felony,Surety Bond,5000,5Y
+828.24,Prohibited Acts Under Humane Slaughter Act,Felony,Surety Bond,5000,5Y
+828.252,Nonambulatory Animal Violations,Misdemeanor,Surety Bond,500,60D
+828.26,Animal Slaughter Penalties,Felony,Surety Bond,5000,5Y
+828.27,Local Animal Control Ordinance Violations,Misdemeanor,Surety Bond,250,30D
+828.29,Violations of Dog/Cat Sale Health Requirements,Misdemeanor,Surety Bond,500,60D
+828.30,Rabies Vaccination Violations,Misdemeanor,Surety Bond,250,30D
+828.42,Animal Enterprise Disruption,Felony,Surety Bond,5000,5Y831.01,Forgery,Felony,Surety Bond,5000,5Y
+831.02,Uttering Forged Instrument,Felony,Surety Bond,5000,5Y
+831.03,Forging or Counterfeiting Private Labels,Felony,Surety Bond,5000,5Y
+831.032,Offenses Involving Forged or Counterfeit Private Labels,Felony,Surety Bond,5000,5Y
+831.033,Destruction or Possession of Counterfeit Private Labels,Felony,Surety Bond,5000,5Y
+831.04,Changing or Forging Certain Written Instruments,Felony,Surety Bond,5000,5Y
+831.06,Fictitious Corporate Officer Signature,Felony,Surety Bond,5000,5Y
+831.07,Forging Bank Bills, Checks, Drafts, or Notes,Felony,Surety Bond,5000,5Y
+831.08,Possession of Forged Bills, Checks, Drafts,Felony,Surety Bond,5000,5Y
+831.09,Uttering Forged Bills or Checks,Felony,Surety Bond,5000,5Y
+831.10,Second Conviction of Uttering Forged Bills,Felony,Surety Bond,10000,10Y
+831.11,Bringing Forged Bank Bills into State,Felony,Surety Bond,5000,5Y
+831.12,Fraudulently Connecting Parts of Genuine Instrument,Felony,Surety Bond,5000,5Y
+831.13,Possession of Uncurrent Bills,Felony,Surety Bond,5000,5Y
+831.14,Uttering Uncurrent Bills,Felony,Surety Bond,5000,5Y
+831.15,Counterfeiting Coin (10 or More),Felony,Surety Bond,5000,5Y
+831.16,Counterfeiting Coin (Fewer Than 10),Felony,Surety Bond,5000,5Y
+831.17,Second or Subsequent Counterfeit Coin Conviction,Felony,Surety Bond,10000,10Y
+831.18,Making or Possessing Instruments for Forging Bills,Felony,Surety Bond,5000,5Y
+831.19,Making or Possessing Instruments for Counterfeiting Coin,Felony,Surety Bond,5000,5Y
+831.21,Forging Doctor’s Certificate,Felony,Surety Bond,5000,5Y
+831.22,Damaging Bank Bills,Felony,Surety Bond,5000,5Y
+831.23,Impeding Circulation of Currency,Felony,Surety Bond,5000,5Y
+831.24,Issuing Shop Bills Similar to Bank Notes,Felony,Surety Bond,5000,5Y
+831.25,Bringing Private Bills Similar to Bank Notes into State,Felony,Surety Bond,5000,5Y
+831.26,Circulating Substitute for Regular Currency,Felony,Surety Bond,5000,5Y
+831.27,Issuing Unauthorized Notes,Felony,Surety Bond,5000,5Y
+831.28,Counterfeiting Payment Instrument,Felony,Surety Bond,10000,10Y
+831.29,Counterfeiting Driver License or ID; Possession of Tools,Felony,Surety Bond,10000,10Y
+831.30,Medicinal Drugs; Fraud in Obtaining,Felony,Surety Bond,5000,5Y
+831.31,Counterfeit Controlled Substance Offenses,Felony,Surety Bond,10000,10Y
+831.311,Counterfeit-Resistant Prescription Blank Offenses,Felony,Surety Bond,10000,10Y
+832.04,Stopping Payment After Purchase of Farm/Grove Products,Felony,Surety Bond,5000,5Y
+832.041,Stopping Payment with Intent to Defraud,Felony,Surety Bond,5000,5Y
+832.05,Worthless Check / Draft / Debit Order,Felony or Misdemeanor,Surety Bond,1000,1Y
+832.06,Worthless Check to Tax Collector,Felony or Misdemeanor,Surety Bond,1000,1Y
+832.062,Worthless Check to Department of Revenue,Felony or Misdemeanor,Surety Bond,1000,1Y
+836.01,Libel (Criminal Libel),Misdemeanor,Surety Bond,500,60D
+836.03,Owner or Editor Criminally Liable for Libel,Misdemeanor,Surety Bond,500,60D
+836.04,Defamation (Criminal),Misdemeanor,Surety Bond,500,60D
+836.05,Threats; Extortion,Felony,Surety Bond,5000,5Y
+836.06,Derogatory Statements About Banks,Felony,Surety Bond,5000,5Y
+836.09,Communicating Libelous Matter to Newspaper,Misdemeanor,Surety Bond,500,60D
+836.10,Written or Electronic Threats to Kill or Commit Mass Violence,Felony,Surety Bond,10000,10Y
+836.11,Publications Exposing Persons to Hatred or Ridicule,Misdemeanor,Surety Bond,500,60D
+836.115,Cyberintimidation by Publication,Felony,Surety Bond,5000,5Y
+836.12,Threats or Harassment,Felony,Surety Bond,5000,5Y
+836.13,Altered Sexual Depictions,Felony,Surety Bond,5000,5Y
+836.14,Theft or Promotion of Sexually Explicit Image,Felony,Surety Bond,5000,5Y
+837.012,Perjury Not in Official Proceeding,Felony,Surety Bond,5000,5Y
+837.02,Perjury in Official Proceeding,Felony,Surety Bond,10000,10Y
+837.021,Perjury by Contradictory Statements,Felony,Surety Bond,10000,10Y
+837.05,False Report to Law Enforcement,Felony,Surety Bond,5000,5Y
+837.055,False Information to Law Enforcement,Felony,Surety Bond,5000,5Y
+837.06,False Official Statements,Misdemeanor,Surety Bond,500,60D
+838.015,Bribery,Felony,Surety Bond,10000,10Y
+838.016,Unlawful Compensation for Official Behavior,Felony,Surety Bond,10000,10Y
+838.021,Corruption by Threat Against Public Servant,Felony,Surety Bond,10000,10Y
+838.022,Official Misconduct,Felony,Surety Bond,5000,5Y
+838.12,Bribery in Athletic Contests,Felony,Surety Bond,5000,5Y
+838.15,Commercial Bribe Receiving,Felony,Surety Bond,5000,5Y
+838.16,Commercial Bribery,Felony,Surety Bond,5000,5Y
+838.21,Disclosure or Use of Confidential Criminal Justice Information,Felony,Surety Bond,5000,5Y
+838.22,Bid Tampering,Felony,Surety Bond,5000,5Y
+839.04,County Officer Speculating in Warrants,Felony,Surety Bond,5000,5Y
+839.05,Municipal Officer Speculating in Scrip,Felony,Surety Bond,5000,5Y
+839.06,Collector Dealing in Warrants,Felony,Surety Bond,5000,5Y
+839.11,Extortion by State Officer,Felony,Surety Bond,5000,5Y
+839.12,Officer Failing to Keep Cost Records,Misdemeanor,Surety Bond,500,60D
+839.13,Falsifying Records,Felony,Surety Bond,5000,5Y
+839.14,Officer Withholding Records from Successor,Felony,Surety Bond,5000,5Y
+839.15,Judicial Officer Withholding Records,Felony,Surety Bond,5000,5Y
+839.16,Fraud of Clerk in Drawing Jury,Felony,Surety Bond,5000,5Y
+839.17,Misappropriation of Money by Commissioner,Felony,Surety Bond,5000,5Y
+839.18,Officer Acting Before Qualification,Felony,Surety Bond,5000,5Y
+839.19,Failure to Execute Process,Felony,Surety Bond,5000,5Y
+839.20,Refusal to Execute Criminal Process,Felony,Surety Bond,5000,5Y
+839.21,Refusal to Receive Prisoner,Felony,Surety Bond,5000,5Y
+839.23,Officer Taking Insufficient Bail,Felony,Surety Bond,5000,5Y
+839.24,Failure to Perform Duty Required of Officer,Misdemeanor,Surety Bond,500,60D
+839.26,Misuse of Confidential Information,Felony,Surety Bond,5000,5Y
+843.01,Resisting Officer with Violence,Felony,Surety Bond,5000,5Y
+843.02,Resisting Officer Without Violence,Misdemeanor,Surety Bond,500,60D
+843.021,Possession of Concealed Handcuff Key,Felony,Surety Bond,5000,5Y
+843.025,Depriving Officer of Protection or Communication,Felony,Surety Bond,5000,5Y
+843.03,Obstruction by Disguised Person,Misdemeanor,Surety Bond,500,60D
+843.04,Refusing to Assist Prison Officer,Misdemeanor,Surety Bond,500,60D
+843.05,Resisting Timber Agent,Misdemeanor,Surety Bond,500,60D
+843.06,Refusal to Aid Peace Officer,Misdemeanor,Surety Bond,500,60D
+843.08,False Personation,Felony,Surety Bond,5000,5Y
+843.081,Prohibited Use of Certain Lights,Misdemeanor,Surety Bond,500,60D
+843.085,Unlawful Use of Badges or Indicia of Authority,Felony,Surety Bond,5000,5Y
+843.0855,Criminal Actions Under Color of Law,Felony,Surety Bond,10000,10Y
+843.09,Escape Through Voluntary Action of Officer,Felony,Surety Bond,5000,5Y
+843.10,Escape by Negligence of Officer,Felony,Surety Bond,5000,5Y
+843.11,Conveying Tools to Aid Escape,Felony,Surety Bond,5000,5Y
+843.12,Aiding Escape,Felony,Surety Bond,5000,5Y
+843.13,Aiding Escape of Juvenile Inmate,Felony,Surety Bond,5000,5Y
+843.14,Compounding a Felony,Felony,Surety Bond,5000,5Y
+843.15,Failure to Appear,Felony,Surety Bond,5000,5Y
+843.16,Illegal Radio Equipment on Law Enforcement Frequencies,Felony,Surety Bond,5000,5Y
+843.165,Unauthorized Transmissions on Government Frequencies,Felony,Surety Bond,5000,5Y
+843.167,Unlawful Use of Police Communications,Felony,Surety Bond,5000,5Y
+843.17,Publishing Name/Address of Law Enforcement Officer,Felony,Surety Bond,5000,5Y
+843.18,Fleeing or Eluding by Boat,Felony,Surety Bond,5000,5Y
+843.19,Offenses Against Police Canines or Horses,Felony,Surety Bond,5000,5Y
+843.20,Harassment of Crime Watch Participant,Misdemeanor,Surety Bond,500,60D
+843.21,Depriving Crime Victim of Medical Care,Felony,Surety Bond,5000,5Y
+843.22,Traveling Across County Lines to Commit Burgl
+843.22,Traveling Across County Lines With Intent to Commit Burglary,Felony,Surety Bond,5000,5Y
+843.23,Tampering With an Electronic Monitoring Device,Felony,Surety Bond,5000,5Y
+843.31,Approaching a First Responder With Specified Intent After Warning,Felony,Surety Bond,5000,5Y
+847.011,Obscene or Lewd Materials; Prohibited Acts,Felony,Surety Bond,5000,5Y
+847.012,Selling or Distributing Harmful Materials to Minors,Felony,Surety Bond,5000,5Y
+847.0125,Retail Display of Harmful Materials to Minors,Misdemeanor,Citation Release,500,60D
+847.013,Exposing Minors to Harmful Performances,Felony,Surety Bond,5000,5Y
+847.0133,Protection of Minors; Obscenity Offenses,Felony,Surety Bond,5000,5Y
+847.0134,Adult Entertainment Near Schools,Felony,Surety Bond,5000,5Y
+847.0135,Computer Pornography; Traveling to Meet Minor,Felony,No Bail,0,15Y
+847.0137,Transmission of Pornography by Electronic Device,Felony,Surety Bond,5000,5Y
+847.0138,Transmission of Harmful Material to Minor,Felony,Surety Bond,5000,5Y
+847.01385,Harmful Communication to a Minor,Felony,Surety Bond,5000,5Y
+847.0141,Sexting by Minor,Infraction,Citation Release,100,0D
+847.0145,Selling or Buying of Minors,Felony,No Bail,0,15Y
+847.0147,Obscene Telephone Service,Misdemeanor,Surety Bond,500,60D
+847.06,Transporting Obscene Matter Into State,Felony,Surety Bond,5000,5Y
+847.07,Wholesale Promotion of Obscene Materials,Felony,Surety Bond,5000,5Y
+847.201,Obscene Cable Programming,Felony,Surety Bond,5000,5Y
+849.01,Keeping Gambling House,Felony,Surety Bond,5000,5Y
+849.02,Employee of Gambling House,Felony,Surety Bond,5000,5Y
+849.03,Renting Property for Gambling,Felony,Surety Bond,5000,5Y
+849.04,Permitting Minors to Gamble,Misdemeanor,Surety Bond,500,60D
+849.07,Gambling on Billiard or Pool Table,Misdemeanor,Citation Release,250,30D
+849.08,Gambling,Misdemeanor,Surety Bond,500,60D
+849.091,Chain Letters / Pyramid Schemes,Felony,Surety Bond,5000,5Y
+849.0935,Illegal Drawings by Chance,Felony,Surety Bond,5000,5Y
+849.094,Illegal Game Promotion,Felony,Surety Bond,5000,5Y
+849.10,Printing Lottery Tickets,Felony,Surety Bond,5000,5Y
+849.11,Games of Chance by Lot,Misdemeanor,Surety Bond,500,60D
+849.14,Betting on Contest of Skill,Misdemeanor,Surety Bond,500,60D
+849.15,Slot Machines; Manufacture or Possession,Felony,Surety Bond,5000,5Y
+849.23,Violations of Slot Machine Statutes,Felony,Surety Bond,5000,5Y
+849.231,Gambling Devices; Manufacture or Possession,Felony,Surety Bond,5000,5Y
+849.233,Penalty for Gambling Device Possession,Felony,Surety Bond,5000,5Y
+849.25,Bookmaking,Felony,Surety Bond,5000,5Y
+849.251,Dog Racing Wagering Violations,Felony,Surety Bond,5000,5Y
+856.011,Disorderly Intoxication,Misdemeanor,Citation Release,250,30D
+856.015,Open House Party Violations,Misdemeanor,Surety Bond,500,60D
+856.021,Loitering or Prowling,Misdemeanor,Surety Bond,500,60D
+856.022,Loitering by Certain Offenders Near Children,Felony,Surety Bond,5000,5Y
+856.04,Desertion or Withholding Support,Felony,Surety Bond,5000,5Y
+859.01,Poisoning Food or Water,Felony,No Bail,0,15Y
+859.02,Illegal Sale of Certain Poisons,Felony,Surety Bond,5000,5Y
+859.04,Poison Regulations Violations,Misdemeanor,Surety Bond,500,60D
+859.08,Selling Adulterated Drugs,Felony,Surety Bond,5000,5Y
+860.02,Carelessness of Common Carrier,Felony,Surety Bond,5000,5Y
+860.03,Intoxicated Common Carrier Employee,Felony,Surety Bond,5000,5Y
+860.04,Riding Train Without Paying,Misdemeanor,Citation Release,250,30D
+860.05,Interfering With Railroad Equipment,Felony,Surety Bond,5000,5Y
+860.065,Using Commercial Transport in Felony,Felony,Surety Bond,5000,5Y
+860.07,Unauthorized Railroad Signals,Misdemeanor,Surety Bond,500,60D
+860.08,Interfering With Railroad Signals,Felony,Surety Bond,5000,5Y
+860.09,Interfering With Railroad Track,Felony,Surety Bond,5000,5Y
+860.091,Interference Causing Death,Felony,No Bail,0,15Y
+860.10,Disposing of Duplicate Switch Keys,Felony,Surety Bond,5000,5Y
+860.11,Injuring Railroad Structures,Felony,Surety Bond,5000,5Y
+860.121,Crimes Against Railroad Vehicles,Felony,Surety Bond,5000,5Y
+860.13,Operating Aircraft While Intoxicated,Felony,Surety Bond,5000,5Y
+860.14,Motor Vehicle Parts Records Violations,Misdemeanor,Surety Bond,500,60D
+860.142,Catalytic Converter Antitheft Act Violations,Felony,Surety Bond,5000,5Y
+860.145,Airbag Antitheft Act Violations,Felony,Surety Bond,5000,5Y
+860.146,Fake or Nonfunctional Airbags,Felony,Surety Bond,5000,5Y
+860.147,Counterfeit Catalytic Converters,Felony,Surety Bond,5000,5Y
+860.15,Overcharging for Repairs,Misdemeanor,Surety Bond,500,60D
+860.16,Aircraft Piracy,Felony,No Bail,0,15Y
+860.17,Tampering With Motor Vehicles,Felony,Surety Bond,5000,5Y
+860.20,Outboard Motor Identification Violations,Misdemeanor,Surety Bond,500,60D
+861.01,Obstructing Highway,Misdemeanor,Citation Release,250,30D
+861.011,Obstructing Transportation Facility,Misdemeanor,Citation Release,250,30D
+861.02,Obstructing Watercourse,Misdemeanor,Surety Bond,500,60D
+861.021,Obstructing Channels,Misdemeanor,Surety Bond,500,60D
+861.03,Injury to Dams,Felony,Surety Bond,5000,5Y
+861.04,Placing Water Hyacinths in Waters,Misdemeanor,Surety Bond,500,60D
+861.05,Obstruction to Navigation by Bridges,Felony,Surety Bond,5000,5Y
+861.06,Obstructing Harbors,Felony,Surety Bond,5000,5Y
+861.07,Obstructing Roads,Misdemeanor,Surety Bond,500,60D
+861.08,Obstructing County Roads,Misdemeanor,Surety Bond,500,60D
+861.09,Prohibited Vehicles on Hard‑Surfaced Roads,Misdemeanor,Citation Release,250,30D
+861.11,Cutting Shade Trees Along Roads,Misdemeanor,Surety Bond,500,60D
+861.12,Road Official Neglecting Duty,Misdemeanor,Surety Bond,500,60D
+865.02,Falsely Shipping Fruit as Florida-Grown,Misdemeanor,Surety Bond,500,60D
+865.05,Selling Plants or Trees Under False Name,Misdemeanor,Surety Bond,500,60D
+865.07,Adulterated Syrup,Misdemeanor,Surety Bond,500,60D
+865.08,Unlawful Purchase of Cotton or Leaf Tobacco,Misdemeanor,Surety Bond,500,60D
+865.09,Fictitious Name Registration Violations,Misdemeanor,Citation Release,250,30D
+865.10,Linen Supplier Violations,Misdemeanor,Citation Release,250,30D
+870.01,Affray or Riot,Felony,Surety Bond,5000,5Y
+870.02,Unlawful Assembly,Felony,Surety Bond,5000,5Y
+870.048,Violations During Declared Emergency,Felony,Surety Bond,5000,5Y
+870.06,Unauthorized Military Organization,Felony,Surety Bond,5000,5Y
+871.01,Disturbing Schools or Religious Assemblies,Misdemeanor,Surety Bond,500,60D
+871.015,Unlawful Protests,Misdemeanor,Surety Bond,500,60D
+871.05,Interference With Sporting or Entertainment Event,Misdemeanor,Surety Bond,500,60D
+872.01,Dealing in Dead Bodies,Felony,Surety Bond,5000,5Y
+872.02,Injuring or Removing Tomb or Grave Contents,Felony,Surety Bond,5000,5Y
+872.03,Illegal Cremation of Human Body,Felony,Surety Bond,5000,5Y
+872.05,Unmarked Human Burials Violations,Felony,Surety Bond,5000,5Y
+872.06,Abuse of a Dead Human Body,Felony,Surety Bond,5000,5Y
+873.01,Sale or Purchase of Human Organs,Felony,Surety Bond,5000,5Y
+873.05,Sale or Transfer of Human Embryos or Fetal Remains,Felony,Surety Bond,5000,5Y
+874.04,Gang-Related Offenses; Enhanced Penalties,Felony,Surety Bond,5000,5Y
+874.05,Recruiting for Criminal Gang,Felony,Surety Bond,5000,5Y
+874.08,Criminal Gang Activity; Forfeiture,Felony,Surety Bond,5000,5Y
+874.10,Directing Activities of a Criminal Gang,Felony,No Bail,0,15Y
+874.11,Criminal Gang Electronic Communication,Felony,Surety Bond,5000,5Y
+874.12,Unlawful Possession or Creation of Gang ID Documents,Felony,Surety Bond,5000,5Y
+876.01,Advocating Overthrow of Government,Felony,Surety Bond,5000,5Y
+876.02,Criminal Anarchy or Communism Advocacy,Felony,Surety Bond,5000,5Y
+876.03,Unlawful Assembly for Anarchy or Communism,Felony,Surety Bond,5000,5Y
+876.04,Allowing Unlawful Assembly in Building,Felony,Surety Bond,5000,5Y
+876.10,False Oath by Public Employee,Felony,Surety Bond,5000,5Y
+876.12,Wearing Mask or Hood on Public Way,Felony,Surety Bond,5000,5Y
+876.13,Wearing Mask on Public Property,Felony,Surety Bond,5000,5Y
+876.14,Wearing Mask on Property of Another,Felony,Surety Bond,5000,5Y
+876.15,Wearing Mask at Demonstration,Felony,Surety Bond,5000,5Y
+876.17,Placing Burning or Flaming Cross in Public Place,Felony,Surety Bond,5000,5Y
+876.18,Placing Burning or Flaming Cross on Property of Another,Felony,Surety Bond,5000,5Y
+876.19,Intimidating Exhibits,Felony,Surety Bond,5000,5Y
+876.20,Wearing Mask While Placing Intimidating Exhibit,Felony,Surety Bond,5000,5Y
+876.23,Subversive Activities,Felony,Surety Bond,5000,5Y
+876.24,Membership in Subversive Organization,Felony,Surety Bond,5000,5Y
+876.32,Treason,Felony,No Bail,0,15Y
+876.33,Misprision of Treason,Felony,Surety Bond,5000,5Y
+876.34,Combination to Usurp Government,Felony,Surety Bond,5000,5Y
+876.35,Combination Against Part of the People,Felony,Surety Bond,5000,5Y
+876.36,Inciting Insurrection,Felony,Surety Bond,5000,5Y
+876.38,Intentional Injury or Interference With Property,Felony,Surety Bond,5000,5Y
+876.39,Intentionally Defective Workmanship,Felony,Surety Bond,5000,5Y
+876.40,Attempting Subversive Acts,Felony,Surety Bond,5000,5Y
+876.41,Conspiracy to Commit Subversive Acts,Felony,Surety Bond,5000,5Y
+876.43,Unlawful Entry on Property,Felony,Surety Bond,5000,5Y
+876.44,Detaining or Questioning Suspected Persons,Felony,Surety Bond,5000,5Y
+876.46,Entering Closed or Restricted Highway,Misdemeanor,Surety Bond,500,60D
+876.52,Public Mutilation of Flag,Felony,Surety Bond,5000,5Y
+877.01,Instigation of Litigation for Profit,Misdemeanor,Surety Bond,500,60D
+877.02,Solicitation of Legal Services,Misdemeanor,Surety Bond,500,60D
+877.03,Breach of Peace; Disorderly Conduct,Misdemeanor,Surety Bond,500,60D
+877.05,Killing Young Veal for Sale,Misdemeanor,Surety Bond,500,60D
+877.06,Mislabeling Beef Not Slaughtered to Standards,Misdemeanor,Surety Bond,500,60D
+877.061,Failure to Maintain Scales in Market Establishment,Misdemeanor,Citation Release,250,30D
+877.08,Tampering With Vending Machines or Parking Meters,Felony,Surety Bond,5000,5Y
+877.09,Tampering With or Damaging Sewer Systems,Felony,Surety Bond,5000,5Y
+877.10,Dual Real Estate Contracts,Felony,Surety Bond,5000,5Y
+877.101,Unauthorized Escrow Business,Felony,Surety Bond,5000,5Y
+877.111,Inhalation or Sale of Harmful Chemical Substances,Felony,Surety Bond,5000,5Y
+877.13,Disruption of School or School Board,Felony,Surety Bond,5000,5Y
+877.14,Merchandising Dogs Without Required Records,Misdemeanor,Surety Bond,500,60D
+877.15,Failure to Control or Report Dangerous Fire,Felony,Surety Bond,5000,5Y
+877.155,Failure to Report Burn Injuries,Misdemeanor,Surety Bond,500,60D
+877.16,Exhibition of Deformed Animals,Misdemeanor,Surety Bond,500,60D
+877.17,Submitting Altered Student Work,Misdemeanor,Citation Release,250,30D
+877.18,Failure to Comply With ID Card Issuance Requirements,Misdemeanor,Surety Bond,500,60D
+877.22,Minor in Public During Curfew Hours,Misdemeanor,Citation Release,250,30D
+877.23,Parent Failing Legal Duty Under Curfew Law,Misdemeanor,Surety Bond,500,60D
+877.26,Surveillance in Dressing Rooms,Felony,Surety Bond,5000,5Y
+877.27,Unauthorized Radio Transmission or Interference,Felony,Surety Bond,5000,5Y
+893.06,Unlawful Distribution of Controlled Substances,Felony,Surety Bond,5000,5Y
+893.13,Controlled Substance Offenses; Possession, Sale, Delivery,Felony,Surety Bond,5000,5Y
+893.131,Distribution Causing Overdose or Serious Injury,Felony,No Bail,0,15Y
+893.132,Fentanyl Exposure Causing Injury to First Responder,Felony,No Bail,0,15Y
+893.135,Trafficking in Controlled Substances,Felony,No Bail,0,15Y
+893.1351,Possession of Property for Trafficking or Manufacturing,Felony,Surety Bond,5000,5Y
+893.147,Drug Paraphernalia; Use or Possession,Misdemeanor,Surety Bond,500,60D
+893.149,Unlawful Possession of Listed Chemical,Felony,Surety Bond,5000,5Y
+893.1495,Retail Sale of Ephedrine Violations,Misdemeanor,Surety Bond,500,60D
+893.20,Continuing Criminal Enterprise,Felony,No Bail,0,15Y
+895.03,RICO Prohibited Activities,Felony,No Bail,0,15Y
+895.04,RICO Criminal Penalties,Felony,No Bail,0,15Y
+896.101,Money Laundering,Felony,No Bail,0,15Y
+896.102,Failure to Report Currency Over $10,000,Felony,Surety Bond,5000,5Y
+896.103,Each Money Laundering Transaction Separate Offense,Felony,Surety Bond,5000,5Y
+896.104,Structuring Transactions to Evade Reporting,Felony,Surety Bond,5000,5Y
+896.106,Fugitive Disentitlement,Felony,Surety Bond,5000,5Y
